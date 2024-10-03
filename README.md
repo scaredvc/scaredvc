@@ -1,4 +1,4 @@
-Hi 👋 My name is scared
+Hi 👋 My name is Hanson
 =======================
 
 * 🌍  I'm based in San Francisco
