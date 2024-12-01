@@ -3,7 +3,7 @@ Hi 👋 My name is Hanson
 
 * 🌍  I'm based in San Francisco
 * ✉️  You can contact me at [lauhanson318@gmail.com](mailto:lauhanson318@gmail.com)
-* 🖥️  See my website: [hansonlau.dev]<a href="https://hansonlau.dev" target="_blank" rel="noreferrer">
+* 🖥️  See my website: <a href="https://hansonlau.dev" target="_blank" rel="noreferrer">hansonlau.dev</a>
 * 🧠  I'm learning golang
 
 ### Skills
