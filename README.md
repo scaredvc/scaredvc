@@ -2,7 +2,7 @@ Hi 👋 My name is Hanson
 =======================
 
 * 🌍  I'm based in San Francisco
-* ✉️  You can contact me at [scaredvcc@gmail.com](mailto:scaredvcc@gmail.com)
+* ✉️  You can contact me at [lauhanson318@gmail.com](mailto:lauhanson318@gmail.com)
 
 ### Skills
 
